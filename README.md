@@ -3,7 +3,8 @@
 ## I'm Pedro!
 
 :computer: Brazilian, currently working on the development of financial solutions.
-:books: Currently learning AWS.
+
+:books: Learning AWS and noSQL.
 
 <!-- :outbox_tray: 2021 Goals: create a new project and find a new job. -->
 
