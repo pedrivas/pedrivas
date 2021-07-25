@@ -22,3 +22,5 @@
 ## Highlights
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrivas&repo=coronahero&theme=cobalt)](https://github.com/pedrivas/coronahero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrivas&repo=frigluz&theme=cobalt)](https://github.com/pedrivas/frigluz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrivas&repo=coronahero&theme=cobalt)](https://github.com/pedrivas/update-stock-with-lambda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrivas&repo=frigluz&theme=cobalt)](https://github.com/pedrivas/tocadasraposas)
